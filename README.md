@@ -1,1 +1,1 @@
-Approximate $/pi/$ value
+Approximate $\pi$ value
